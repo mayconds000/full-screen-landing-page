@@ -1,0 +1,21 @@
+html, body{
+  margin: 0;
+  padding: 0;
+}
+
+header{
+  background-image: url(./Landscape-wallpaper-16.jpg);
+  background-size: cover;
+  height: 100vh;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+p{
+  max-width: 600px;
+  margin: 0 auto 20px;
+}
